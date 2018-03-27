@@ -46,6 +46,10 @@ h2 {
     text-shadow: 0 0 5px #01579b;
 }
 
+.destination p {
+  color: #333;
+}
+
 #florida {
     background-color: #03a9f4;
 }
